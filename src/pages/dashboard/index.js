@@ -1,8 +1,4 @@
 import React from "react";
-import {
-  MDBRow,
-  MDBCol,
-} from "mdb-react-ui-kit";
 
 const Dashboard = () => {
   return (
